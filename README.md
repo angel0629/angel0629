@@ -3,7 +3,7 @@
 - ♡ Sumikko Gurashi ._.
 - ℹ️more info
 
-| <img src="https://github.com/user-attachments/assets/f7988bff-5def-457b-ba06-f19397bc3047" width="200"/> |  | - [C language note](https://hackmd.io/yM_3MNH5RKilX_2R0q69Jw) |
+| <img src="https://github.com/user-attachments/assets/f7988bff-5def-457b-ba06-f19397bc3047" width="200"/> |  | [C language note](https://hackmd.io/yM_3MNH5RKilX_2R0q69Jw) |
 | -------- | -------- |-------|
 ```
                   .     .  
