@@ -1,7 +1,6 @@
 ## Hi ._.
 - NCNU IM
 - ♡ Sumikko Gurashi ._.
-- ℹ️more info
 <table>
   <tr>
     <td>
@@ -27,7 +26,9 @@
       </pre>
     </td>
     <td>
-      <a href="https://hackmd.io/yM_3MNH5RKilX_2R0q69Jw">C language note</a>
+      <a href="https://hackmd.io/yM_3MNH5RKilX_2R0q69Jw">C 語言課輔筆記</a><br/>
+      <a href="https://hackmd.io/@-dqF--JHRweGqr2SXT6qZw/r1AOcBYqyl">Java 課輔筆記</a><br/>
+      <a href="https://hackmd.io/@-dqF--JHRweGqr2SXT6qZw/BJpsgVvjll">Linux 實務與應用(II) LSA II 課程報告</a>
     </td>
   </tr>
 </table>
